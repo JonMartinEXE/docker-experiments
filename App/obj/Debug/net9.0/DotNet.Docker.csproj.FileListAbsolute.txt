@@ -1,0 +1,15 @@
+C:\Repos\docker-experiments\App\bin\Debug\net9.0\DotNet.Docker.exe
+C:\Repos\docker-experiments\App\bin\Debug\net9.0\DotNet.Docker.deps.json
+C:\Repos\docker-experiments\App\bin\Debug\net9.0\DotNet.Docker.runtimeconfig.json
+C:\Repos\docker-experiments\App\bin\Debug\net9.0\DotNet.Docker.dll
+C:\Repos\docker-experiments\App\bin\Debug\net9.0\DotNet.Docker.pdb
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.AssemblyInfo.cs
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.sourcelink.json
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.dll
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\refint\DotNet.Docker.dll
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.pdb
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\DotNet.Docker.genruntimeconfig.cache
+C:\Repos\docker-experiments\App\obj\Debug\net9.0\ref\DotNet.Docker.dll

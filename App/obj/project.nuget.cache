@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HYb76mIPg+6nOYScu54GB0+9EUJVu8BmWXakVvM5cJR93mJcH8t9MUS414GiWwF6OgveHI0kIHobN7HB1TGL1Q==",
+  "dgSpecHash": "P1R34PD8MEo=",
   "success": true,
-  "projectFilePath": "C:\\repos\\docker-experiments\\App\\DotNet.Docker.csproj",
+  "projectFilePath": "C:\\Repos\\docker-experiments\\App\\DotNet.Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
